@@ -39,7 +39,14 @@ background-color:green;
   border:none;
   color:white;
   margin-top:10px;
-  display:none;
+}
+
+#error-message{
+  color:red;
+}
+
+#success-message{
+  color:green;
 }
 
 
